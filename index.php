@@ -1,2 +1,2 @@
 <?php
-echo "Hello this is start page";
+echo "Hello this is start page edited";
